@@ -19,3 +19,6 @@ line-height25.6px
 text-size-adjust100%
 widthauto
 -webkit-font-smoothingantialiased
+on:
+  schedule:
+  - cron: "0 2 * * 1-5"
