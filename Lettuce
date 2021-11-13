@@ -620,3 +620,13 @@ on:
     class="Header-link"
     aria-label="View profile and more"
     data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/LettucetheTurtle?tab=repositories&quot;,&quot;user_id&quot;:94022372}}" data-hydro-click-hmac="8f42146bf27944105f86309c5a52b405cb358f7b467510966605e49e4e9f293a" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;}"
+<link rel="apple-touch-icon" sizes="57x57" href="//www.poetryfoundation.org/assets/media/images/apple-touch-icon-57x57.png?=1.2.12" />
+<link rel="apple-touch-icon" sizes="60x60" href="//www.poetryfoundation.org/assets/media/images/apple-touch-icon-60x60.png?=1.2.12" />
+<link rel="apple-touch-icon" sizes="72x72" href="//www.poetryfoundation.org/assets/media/images/apple-touch-icon-72x72.png?v=1.2.12" />
+<link rel="apple-touch-icon" sizes="76x76" href="//www.poetryfoundation.org/assets/media/images/apple-touch-icon-76x76.png?v=1.2.12" />
+<link rel="apple-touch-icon" sizes="114x114" href="//www.poetryfoundation.org/assets/media/images/apple-touch-icon-114x114.png?v=1.2.12" />
+<link rel="apple-touch-icon" sizes="120x120" href="//www.poetryfoundation.org/assets/media/images/apple-touch-icon-120x120.png?v=1.2.12" />
+<link rel="apple-touch-icon" sizes="144x144" href="//www.poetryfoundation.org/assets/media/images/apple-touch-icon-144x144.png?v=1.2.12" />
+<link rel="apple-touch-icon" sizes="152x152" href="//www.poetryfoundation.org/assets/media/images/apple-touch-icon-152x152.png?v=1.2.12" />
+<link rel="apple-touch-icon" sizes="180x180" href="//www.poetryfoundation.org/assets/media/images/apple-touch-icon-180x180.png?v=1.2.12" />
+<link rel="apple-touch-icon" sizes="196x196" href="//www.poetryfoundation.org/assets/media/images/apple-touch-icon-196x196.png?v=1.2.12" />
